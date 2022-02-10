@@ -1,0 +1,19 @@
+*{
+  min-height: px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+#projects{
+  background-color: #e2edff;
+}
+.footer {
+  background-color: primary;
+  padding: 10px;
+}
+.footer .copy {
+  color: #e2edff;
+  text-align: center;
+  font-size: 12px;
+ }
